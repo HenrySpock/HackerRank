@@ -48,3 +48,4 @@ console.log('Day 0001: 3 problems');
 //     let zedRat = (zed.length/arr.length).toFixed(6);
 //     console.log(`${posRat}\n${negRat}\n${zedRat}`);
 // }
+console.log('Day 0002: _ problems');
