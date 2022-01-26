@@ -48,4 +48,50 @@ console.log('Day 0001: 3 problems');
 //     let zedRat = (zed.length/arr.length).toFixed(6);
 //     console.log(`${posRat}\n${negRat}\n${zedRat}`);
 // }
-console.log('Day 0002: _ problems');
+
+// 4.Staircase detail 
+// This is a staircase of size :
+//    #
+//   ##
+//  ###
+// ####
+// Its base and height are both equal to . It is drawn using # symbols and spaces. The last line 
+// is not preceded by any spaces. Write a program that prints a staircase of size.
+// function staircase(n){    
+//     let rung = [];
+//     for (let i = 0; i< n; i++){
+//         rung.push(' ');  
+//     }
+
+//     for (let i = 0; i< n; i++){
+//         rung.shift();
+//         rung.push('#');
+//         console.log(rung.join(''));
+//     }  
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// console.log('Day 0002: _ problems');
+
+
+
+
