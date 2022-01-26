@@ -1,5 +1,3 @@
-
-console.log('Day 0001: 3 problems');
 // 1. Complete the function solveMeFirst to compute the sum of two integers. 
 
 // function solveMeFirst(a, b) { 
@@ -49,7 +47,8 @@ console.log('Day 0001: 3 problems');
 //     console.log(`${posRat}\n${negRat}\n${zedRat}`);
 // }
 
-// 4.Staircase detail 
+// 4.
+// Staircase detail 
 // This is a staircase of size :
 //    #
 //   ##
@@ -71,8 +70,29 @@ console.log('Day 0001: 3 problems');
 //     }  
 // }  
 
-// console.log('Day 0002: _ problems');
+// 5.
+// Given five positive integers, find the minimum and maximum values that can be calculated by 
+// summing exactly four of the five integers. Then print the respective minimum and maximum 
+// values as a single line of two space-separated long integers. 
+// Example: 
+// arr = [1,3,5,7,9]
+// The minimum sum is 1+3+5+7=16 and the maximum sum is 3=5=7=9=24. The function prints
+// 16 24
 
+// let nums = [7,5,9,1,3]
 
+// function minMax(arr){
+// arr.sort(); 
+// let range = 0;
+// let min = 0;
+// let max = 0;
+// for (let i=0; i<arr.length; i++){
+//     range = range += arr[i];
+//     min = range - arr[4];
+//     max = range - arr[0];
+//     }
+//     console.log(min, max);
+// }
 
-
+console.log('Day 0001: 5 challenges\n5 JavaScript challenges');
+// console.log('Day 0001: _ challenges\n_ JavaScript challenges');
