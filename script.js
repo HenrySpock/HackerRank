@@ -57,6 +57,7 @@ console.log('Day 0001: 3 problems');
 // ####
 // Its base and height are both equal to . It is drawn using # symbols and spaces. The last line 
 // is not preceded by any spaces. Write a program that prints a staircase of size.
+
 // function staircase(n){    
 //     let rung = [];
 //     for (let i = 0; i< n; i++){
@@ -68,27 +69,7 @@ console.log('Day 0001: 3 problems');
 //         rung.push('#');
 //         console.log(rung.join(''));
 //     }  
-// }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// }  
 
 // console.log('Day 0002: _ problems');
 
